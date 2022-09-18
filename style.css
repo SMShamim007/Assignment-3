@@ -2,7 +2,7 @@ body
 {
 background-color: white;
 font-family: 'Roboto', sans-serif;
-
+display: flex;
 }
 
 .form-box 
@@ -10,7 +10,6 @@ font-family: 'Roboto', sans-serif;
 height: 500px;
 width: 250px;
 background-color: whitesmoke ;
-margin: 0;
 }
 
 h2
